@@ -1,0 +1,35 @@
+.heading{
+
+    font-size: 20px;
+    font-weight: bold;
+color: black;
+width: 100%;
+box-shadow: 5px,5px,yellow;
+}
+
+
+.footer_div{
+
+bottom:0;
+position:fixed;
+width: 100%;
+font-size: 25px;
+font-weight: 900;       
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: tomato;
+background-color: yellowgreen;
+line-height: 3;
+}
+
+canvas{
+
+            border: 3px solid brown;
+            box-shadow: 4px 4px 7px seagreen;
+            border-radius: 25px;
+}
+
+video{
+
+    margin-top: 100px;
+    margin-left: 75px;
+}
